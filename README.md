@@ -25,12 +25,12 @@ thống
 7. Import bảng điểm (file CSV) vào hệ thống
 8. Xem lại bảng điểm
 9. Sửa điểm 1 sinh viên
-10.Sinh viên Chỉ được xem điểm của mình
-11.Đăng nhập, đăng xuất
-12.Đổi mật khẩu
-13.Giáo vụ xem danh sách phúc và chỉnh sửa,
+10. Sinh viên Chỉ được xem điểm của mình
+11. Đăng nhập, đăng xuất
+12. Đổi mật khẩu
+13. Giáo vụ xem danh sách phúc và chỉnh sửa,
 cập nhật điểm
-14.Sinh viên phúc khảo điểm.
+14. Sinh viên phúc khảo điểm.
 
 # demo
 https://youtu.be/UclcwyzOrxU
